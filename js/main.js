@@ -14,7 +14,7 @@ let landingPage = document.querySelector(".sec1");
 
 //Get Array of Images
 let imgsArray =["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","img7.jpg","img8.jpg","img9.jpg","img10.jpg"];
-let im = "../images/"
+let im = "./images/"
  console.log(imgsArray);
 //function to randomize imgs
   function randomizeImgs() {
