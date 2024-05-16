@@ -1,2 +1,2 @@
-# our-e-Commerce
-e-commerce practice project with a team
+# Our-Project-Cla-
+project using html , css and javascript
